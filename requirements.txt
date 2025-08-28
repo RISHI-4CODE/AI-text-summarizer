@@ -1,0 +1,4 @@
+txt
+transformers
+torch
+streamlit
